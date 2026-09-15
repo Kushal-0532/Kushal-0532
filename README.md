@@ -9,10 +9,24 @@ I'm a CS undergrad (AI specialization) focused on building applications that lev
 
 ## Tech Stack
 
-**Languages:** Java, Python
-**AI/ML:** LangChain, LangGraph, ChromaDB, RAG pipelines, ModernBERT fine-tuning, HuggingFace
-**Infra/DB:** AWS, PostgreSQL
-**OS:** Debian Linux
+**Languages**
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**AI/ML**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-4B0082?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-2E8B57?style=for-the-badge&logoColor=white)
+![ModernBERT](https://img.shields.io/badge/ModernBERT-FF6F00?style=for-the-badge&logoColor=white)
+
+**Infra/DB**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**OS**
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 ## Projects
 
