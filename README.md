@@ -44,7 +44,7 @@ A browser extension that shows differing political viewpoints on the same news s
 **Stack:** FastAPI, Docker, Upstash Redis, HuggingFace Spaces
 **Highlight:** 99.4% p95 latency reduction (7265ms → 44.1ms) via semantic caching
 
-### Verascope (Capstone)
+### [Verascope (Capstone)](https://github.com/Kushal-0532/VeraScope)
 Upload a recording of people talking and it writes out who said what, then fact-checks each line against evidence from the web.
 **Stack:** Python, Streamlit, PyTorch, AWS GPU
 **Highlight:** 48-min file processed in 96 s instead of 290 s on an A10G GPU
