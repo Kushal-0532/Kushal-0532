@@ -35,23 +35,28 @@ I'm a CS undergrad (AI specialization) focused on building applications that lev
 ## Projects
 
 ### [Connectome Plays FNAF](https://github.com/Kushal-0532/fruitfly_plays_fnaf)
-A bot that plays Five Nights at Freddy's: Ultimate Custom Night using a connectome-constrained fruit fly visual system model (`flyvis`) as its perception layer so the fly brain "sees" the game and decides when to act.
+A bot that plays Five Nights at Freddy's using a simulated fruit-fly brain (`flyvis`, 45,669 neurons) as its eyes, so the fly "sees" the game and decides when to close the doors.
 **Stack:** Python, flyvis, Steam Proton (Debian)
-**Highlight:** Passion project, started for fun & now in active development. 
-
-### [Energy-Based Semantic Landscapes](https://github.com/Kushal-0532/Energy-Based-Semantic-Landscapes-Controlling-Output-Stability)
-Research project exploring energy-based methods to control and stabilize LLM output. Built and evaluated an EBM-based framework for measuring semantic stability in smaller 1B models.
-**Stack:** Python, PyTorch
+**Highlight:** Passion project: Nights 1–3 won live, with the fly readout making the door decisions on Night 3.
 
 ### [UnBlur](https://github.com/Kushal-0532/UnblurNews)
 A browser extension that shows differing political viewpoints on the same news story & plots similar articles on a graph (x-axis: left/center/right leaning, y-axis: sentiment score) using a three-head fine-tuned model.
 **Stack:** FastAPI, Docker, Upstash Redis, HuggingFace Spaces
 **Highlight:** 99.4% p95 latency reduction (7265ms → 44.1ms) via semantic caching
 
+### Verascope (Capstone)
+Upload a recording of people talking and it writes out who said what, then fact-checks each line against evidence from the web.
+**Stack:** Python, Streamlit, PyTorch, AWS GPU
+**Highlight:** 48-min file processed in 96 s instead of 290 s on an A10G GPU
+
 ### [Semantic Caching Layer](https://github.com/Kushal-0532/Semantic-Search-System)
 A semantic caching system for search queries using embeddings and clustering to reduce redundant retrieval calls. Used what I learnt here for the unblur project.
 **Stack:** Python, ChromaDB, GMM
 **Highlight:** Built and tested on the 20 Newsgroups dataset
+
+### [Energy-Based Semantic Landscapes](https://github.com/Kushal-0532/Energy-Based-Semantic-Landscapes-Controlling-Output-Stability)
+Research project testing whether a learned "consistency scorer" can make a small LLM give more consistent answers to the same question. Result: it cut answer variance by ~35%, but plain best-of-N re-ranking did just as well.
+**Stack:** Python, PyTorch
 
 ### [MLC RAG](https://github.com/Kushal-0532/MLC-team-project)
 A Retrieval-Augmented Generation pipeline built as a team project.
