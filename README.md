@@ -34,6 +34,11 @@ I'm a CS undergrad (AI specialization) focused on building applications that lev
 
 ## Projects
 
+### [Connectome Plays FNAF](https://github.com/Kushal-0532/fruitfly_plays_fnaf)
+A bot that plays Five Nights at Freddy's: Ultimate Custom Night using a connectome-constrained fruit fly visual system model (`flyvis`) as its perception layer so the fly brain "sees" the game and decides when to act.
+**Stack:** Python, flyvis, Steam Proton (Debian)
+**Highlight:** Passion project, started for fun & now in active development. 
+
 ### [Energy-Based Semantic Landscapes](https://github.com/Kushal-0532/Energy-Based-Semantic-Landscapes-Controlling-Output-Stability)
 Research project exploring energy-based methods to control and stabilize LLM output. Built and evaluated an EBM-based framework for measuring semantic stability in smaller 1B models.
 **Stack:** Python, PyTorch
@@ -60,11 +65,6 @@ Built for Smart India Hackathon. Video conferencing telemedicine application
 Satellite-imagery landslide detection using deep learning models.
 **Stack:** Python, PyTorch
 **Highlight:** Deep learning on multi-band satellite data
-
-### Connectome Plays FNAF (in active development)
-A bot that plays Five Nights at Freddy's: Ultimate Custom Night using a connectome-constrained fruit fly visual system model (`flyvis`) as its perception layer so the fly brain "sees" the game and decides when to act.
-**Stack:** Python, flyvis, Steam Proton (Debian)
-**Highlight:** Passion project, started for fun & now in active development. 
 
 ## Connect
 [LinkedIn](https://linkedin.com/in/kushal-veerapaneni-b16174210) · [Medium](https://medium.com/@kushal.veerapaneni) · [dev.to](https://dev.to/kushal0532)
